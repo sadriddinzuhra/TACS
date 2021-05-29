@@ -6,4 +6,4 @@ TACS (Telescope Automatic Controlling System) - is a system of motors, sensors, 
 
 Schematics
 
-![Безымянный](https://user-images.githubusercontent.com/60188174/119797920-7fcb5480-befc-11eb-80b8-9d3ff1b491bf.png)
+
